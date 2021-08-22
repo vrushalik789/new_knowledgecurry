@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+stylemixthemes.com	TRUE	/masterstudy/	FALSE	1999999999	pmpro_visit	1
+stylemixthemes.com	TRUE	/masterstudy/	FALSE	1999999999	woocommerce_items_in_cart	1
+stylemixthemes.com	TRUE	/masterstudy/	FALSE	1999999999	wp_woocommerce_session_56c7320c0bfcd5a9ecca26cd5180e564	640be2c45da798812404b890e3145594%7C%7C1628069303%7C%7C1628065703%7C%7Cbaaf5d460f60b6f4d405d4f8167d275b
+stylemixthemes.com	TRUE	/masterstudy/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+stylemixthemes.com	TRUE	/masterstudy/	FALSE	1999999999	woocommerce_cart_hash	6e9cee375a23e7d2696dfacbfbf5876c
+stylemixthemes.com	TRUE	/	FALSE	1999999999	stm_lms_courses_watched	880%2C1001%2C999%2C869%2C1002%2C811%2C870%2C818%2C816%2C875%2C821%2C876%2C878%2C881
+stylemixthemes.com	TRUE	/	FALSE	1999999999	PHPSESSID	7mmqngtmamu459no78ortlv7dv
+

@@ -1,0 +1,210 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 02 Aug 2021 14:51:56 at https://stylemixthemes.com/masterstudy/white-lms/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://stylemixthemes.com/masterstudy/white-lms/
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://stylemixthemes.com/masterstudy/white-lms/ -O1 "C:\Users\Admin\Desktop\knows" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://stylemixthemes.com/masterstudy/white-lms/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:54:36	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://stylemixthemes.com/masterstudy/white-lms/)
+14:54:36	Error: 	"Forbidden" (403) at link https://stylemixthemes.com/masterstudy/white-lms/xmlrpc.php (from https://stylemixthemes.com/masterstudy/white-lms/)
+14:56:22	Error: 	"Forbidden" (403) at link https://stylemixthemes.com/masterstudy/white-lms/xmlrpc.php?rsd (from https://stylemixthemes.com/masterstudy/white-lms/)
+15:04:56	Warning: 	Found for https://stylemixthemes.com/masterstudy/white-lms/membership-account/
+15:04:56	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/membership-account/ to https://stylemixthemes.com/masterstudy/white-lms/wp-login.php?redirect_to=https%3A%2F%2Fstylemixthemes.com%2Fmasterstudy%2Fwhite-lms%2Fmembership-account%2F
+15:05:08	Error: 	"Forbidden" (403) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/themes/masterstudy-child/assets/img/ (from https://stylemixthemes.com/masterstudy/white-lms/)
+15:05:09	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/webfonts/fa-brands-400.eot (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/fontawesome.css?ver=3.4.7)
+15:05:09	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/webfonts/fa-brands-400.eot? (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/fontawesome.css?ver=3.4.7)
+15:05:09	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/webfonts/fa-brands-400.woff2 (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/fontawesome.css?ver=3.4.7)
+15:05:09	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/webfonts/fa-brands-400.woff (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/fontawesome.css?ver=3.4.7)
+15:05:09	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/webfonts/fa-brands-400.ttf (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/fontawesome.css?ver=3.4.7)
+15:05:09	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/webfonts/fa-brands-400.svg (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/fontawesome.css?ver=3.4.7)
+15:05:09	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/webfonts/fa-regular-400.eot (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/fontawesome.css?ver=3.4.7)
+15:05:09	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/webfonts/fa-regular-400.eot? (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/fontawesome.css?ver=3.4.7)
+15:05:09	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/webfonts/fa-regular-400.woff2 (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/fontawesome.css?ver=3.4.7)
+15:05:09	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/webfonts/fa-regular-400.woff (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/fontawesome.css?ver=3.4.7)
+15:05:09	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/webfonts/fa-regular-400.ttf (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/fontawesome.css?ver=3.4.7)
+15:05:09	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/webfonts/fa-regular-400.svg (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/fontawesome.css?ver=3.4.7)
+15:05:09	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/webfonts/fa-solid-900.eot (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/fontawesome.css?ver=3.4.7)
+15:05:09	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/webfonts/fa-solid-900.eot? (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/fontawesome.css?ver=3.4.7)
+15:05:09	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/webfonts/fa-solid-900.woff2 (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/fontawesome.css?ver=3.4.7)
+15:05:09	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/webfonts/fa-solid-900.woff (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/fontawesome.css?ver=3.4.7)
+15:05:09	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/webfonts/fa-solid-900.ttf (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/fontawesome.css?ver=3.4.7)
+15:05:09	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/webfonts/fa-solid-900.svg (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/accesspress-social-login-lite/css/font-awesome/fontawesome.css?ver=3.4.7)
+15:05:12	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/themes/masterstudy/assets/fonts/glyphicons-halflings-regular.eot (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/themes/masterstudy/assets/css/bootstrap.min.css?ver=3.3.5)
+15:05:12	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/themes/masterstudy/assets/fonts/glyphicons-halflings-regular.eot? (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/themes/masterstudy/assets/css/bootstrap.min.css?ver=3.3.5)
+15:05:12	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/themes/masterstudy/assets/fonts/glyphicons-halflings-regular.woff2 (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/themes/masterstudy/assets/css/bootstrap.min.css?ver=3.3.5)
+15:05:12	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/themes/masterstudy/assets/fonts/glyphicons-halflings-regular.woff (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/themes/masterstudy/assets/css/bootstrap.min.css?ver=3.3.5)
+15:05:12	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/themes/masterstudy/assets/fonts/glyphicons-halflings-regular.ttf (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/themes/masterstudy/assets/css/bootstrap.min.css?ver=3.3.5)
+15:05:12	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/themes/masterstudy/assets/fonts/glyphicons-halflings-regular.svg (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/themes/masterstudy/assets/css/bootstrap.min.css?ver=3.3.5)
+15:05:12	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=7394
+15:05:12	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=7394 to https://stylemixthemes.com/masterstudy/white-lms/wishlist/
+15:05:13	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=2
+15:05:13	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=2 to https://stylemixthemes.com/masterstudy/white-lms/courses/
+15:05:14	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=392
+15:05:14	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=392 to https://stylemixthemes.com/masterstudy/white-lms/about-us/
+15:07:02	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=435
+15:07:02	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=435 to https://stylemixthemes.com/masterstudy/white-lms/new-chicago-art-budget-relies-on-state-pension/
+15:07:35	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=4193
+15:07:35	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=4193 to https://stylemixthemes.com/masterstudy/white-lms/events/digital-education-market-briefing/
+15:10:30	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=4153
+15:10:30	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=4153 to https://stylemixthemes.com/masterstudy/white-lms/gallery-masonry/
+15:10:31	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=667
+15:10:31	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=667 to https://stylemixthemes.com/masterstudy/white-lms/shortcodes/
+15:10:47	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=189
+15:10:47	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=189 to https://stylemixthemes.com/masterstudy/white-lms/membership-account/membership-levels/
+15:10:59	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=669
+15:10:59	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=669 to https://stylemixthemes.com/masterstudy/white-lms/typography/
+15:10:59	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=3170
+15:10:59	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=3170 to https://stylemixthemes.com/masterstudy/white-lms/google-classrooms/
+15:10:59	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=413
+15:10:59	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=413 to https://stylemixthemes.com/masterstudy/white-lms/contact-us/
+15:10:59	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=2923
+15:10:59	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=2923 to https://stylemixthemes.com/masterstudy/white-lms/course-bundles/
+15:11:33	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/course-bundles/?paged=2
+15:11:33	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/course-bundles/?paged=2 to https://stylemixthemes.com/masterstudy/white-lms/course-bundles/page/2/
+15:15:11	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=7392
+15:15:11	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=7392 to https://stylemixthemes.com/masterstudy/white-lms/user-account/
+15:17:03	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=953
+15:17:03	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=953 to https://stylemixthemes.com/masterstudy/white-lms/our-main-target-is-to-developing-yourself-as-a-leader/
+15:17:03	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=437
+15:17:03	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=437 to https://stylemixthemes.com/masterstudy/white-lms/those-other-college-expenses/
+15:17:03	Error: 	"Not Found" (404) at link https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/masterstudy-lms-learning-management-system/assets/vendors/owl.video.play.png (from https://stylemixthemes.com/masterstudy/white-lms/wp-content/plugins/masterstudy-lms-learning-management-system/assets/vendors/owl.carousel.min.css?ver=2.6.4)
+15:17:04	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=436
+15:17:04	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=436 to https://stylemixthemes.com/masterstudy/white-lms/the-surprising-reason-college-tuition/
+15:17:04	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=170
+15:17:04	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=170 to https://stylemixthemes.com/masterstudy/white-lms/body-cameras-on-public-school-educators/
+15:17:04	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=434
+15:17:04	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=434 to https://stylemixthemes.com/masterstudy/white-lms/us-teens-win-international-rocketry-challenge/
+15:17:05	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=167
+15:17:05	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=167 to https://stylemixthemes.com/masterstudy/white-lms/south-african-universities-trail-other-brics/
+15:17:05	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=656
+15:17:05	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=656 to https://stylemixthemes.com/masterstudy/white-lms/the-beauty-of-the-childhood/
+15:17:08	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=4195
+15:17:08	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=4195 to https://stylemixthemes.com/masterstudy/white-lms/events/conscious-discipline-summer-institute/
+15:17:08	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=4194
+15:17:08	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=4194 to https://stylemixthemes.com/masterstudy/white-lms/events/next-gen-higher-education-students/
+15:17:08	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=4192
+15:17:08	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=4192 to https://stylemixthemes.com/masterstudy/white-lms/events/learning-network-webinars/
+15:17:08	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=4191
+15:17:08	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=4191 to https://stylemixthemes.com/masterstudy/white-lms/events/education-school-technology-summit-2015/
+15:17:08	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=4190
+15:17:08	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=4190 to https://stylemixthemes.com/masterstudy/white-lms/events/5-day-critical-friends-advanced-group-training/
+15:17:09	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=4189
+15:17:09	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=4189 to https://stylemixthemes.com/masterstudy/white-lms/events/loyola-university-chicago/
+15:17:09	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=4188
+15:17:09	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=4188 to https://stylemixthemes.com/masterstudy/white-lms/events/happy-face-workshop-by-hong-kong-volunteers/
+15:17:13	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=5370
+15:17:13	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=5370 to https://stylemixthemes.com/masterstudy/white-lms/product/art-of-the-start/
+15:17:20	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=5371
+15:17:20	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=5371 to https://stylemixthemes.com/masterstudy/white-lms/product/built-to-last/
+15:17:53	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=5369
+15:17:53	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=5369 to https://stylemixthemes.com/masterstudy/white-lms/product/business-adventures/
+15:18:19	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=5374
+15:18:19	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=5374 to https://stylemixthemes.com/masterstudy/white-lms/product/good-to-great/
+15:18:32	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=5375
+15:18:32	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=5375 to https://stylemixthemes.com/masterstudy/white-lms/product/how-to-win-friends/
+15:18:53	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=5365
+15:18:53	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=5365 to https://stylemixthemes.com/masterstudy/white-lms/product/lords-of-strategy/
+15:18:58	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=5364
+15:18:58	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=5364 to https://stylemixthemes.com/masterstudy/white-lms/product/masterstudy-wordpress/
+15:18:59	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=5366
+15:18:59	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=5366 to https://stylemixthemes.com/masterstudy/white-lms/product/premium-quality/
+15:19:17	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=5367
+15:19:17	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=5367 to https://stylemixthemes.com/masterstudy/white-lms/product/ship-your-idea/
+15:19:32	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/shop/page/1/
+15:19:32	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/shop/page/1/ to https://stylemixthemes.com/masterstudy/white-lms/shop/
+15:20:34	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=5377
+15:20:34	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=5377 to https://stylemixthemes.com/masterstudy/white-lms/product/woo-logo/
+15:20:42	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=5376
+15:20:42	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=5376 to https://stylemixthemes.com/masterstudy/white-lms/product/woo-ninja/
+15:20:45	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=5373
+15:20:45	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=5373 to https://stylemixthemes.com/masterstudy/white-lms/product/the-lean-startup/
+15:20:51	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=186
+15:20:51	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=186 to https://stylemixthemes.com/masterstudy/white-lms/membership-account/membership-checkout/
+15:20:56	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=2892
+15:20:56	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=2892 to https://stylemixthemes.com/masterstudy/white-lms/stm-course-bundles/the-complete-stock-trading-bundle-course/
+15:21:06	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=2890
+15:21:06	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=2890 to https://stylemixthemes.com/masterstudy/white-lms/stm-course-bundles/programming-for-beginners-bundle-course/
+15:21:06	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=2882
+15:21:06	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=2882 to https://stylemixthemes.com/masterstudy/white-lms/stm-course-bundles/web-development-for-beginners-5-in-1-course-bundle/
+15:21:06	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=2880
+15:21:06	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=2880 to https://stylemixthemes.com/masterstudy/white-lms/stm-course-bundles/master-technical-analysis-and-chart-reading-skills-bundle/
+15:21:06	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=2876
+15:21:06	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=2876 to https://stylemixthemes.com/masterstudy/white-lms/stm-course-bundles/the-complete-business-plan-course-includes-5-courses/
+15:21:06	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=2874
+15:21:06	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=2874 to https://stylemixthemes.com/masterstudy/white-lms/stm-course-bundles/the-complete-communication-skills-master-class-for-life/
+15:25:23	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/shop/page/1/?view_type=grid
+15:25:23	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/shop/page/1/?view_type=grid to https://stylemixthemes.com/masterstudy/white-lms/shop/?view_type=grid
+15:25:23	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/shop/page/1/?view_type=list
+15:25:23	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/shop/page/1/?view_type=list to https://stylemixthemes.com/masterstudy/white-lms/shop/?view_type=list
+15:25:41	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=5368
+15:25:41	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=5368 to https://stylemixthemes.com/masterstudy/white-lms/product/the-art-of-the-deal/
+15:25:46	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=5104
+15:25:46	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=5104 to https://stylemixthemes.com/masterstudy/white-lms/cart/
+15:25:46	Warning: 	Found for https://stylemixthemes.com/masterstudy/white-lms/cart/?remove_item=4f3d7d38d24b740c95da2b03dc3a2333&_wpnonce=a6cac420c9
+15:25:46	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/cart/?remove_item=4f3d7d38d24b740c95da2b03dc3a2333&_wpnonce=a6cac420c9 to http://stylemixthemes.com/masterstudy/white-lms/cart/?removed_item=1
+15:25:47	Warning: 	Found for https://stylemixthemes.com/masterstudy/white-lms/cart/?remove_item=78719f11fa2df9917de3110133506521&_wpnonce=a6cac420c9
+15:25:47	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/cart/?remove_item=78719f11fa2df9917de3110133506521&_wpnonce=a6cac420c9 to http://stylemixthemes.com/masterstudy/white-lms/cart/?removed_item=1
+15:25:48	Warning: 	Found for https://stylemixthemes.com/masterstudy/white-lms/cart/?remove_item=d5cec1027063b70c834c16a86baca424&_wpnonce=a6cac420c9
+15:25:48	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/cart/?remove_item=d5cec1027063b70c834c16a86baca424&_wpnonce=a6cac420c9 to http://stylemixthemes.com/masterstudy/white-lms/cart/?removed_item=1
+15:25:48	Warning: 	Found for https://stylemixthemes.com/masterstudy/white-lms/cart/?remove_item=90610aa0e24f63ec6d2637e06f9b9af2&_wpnonce=a6cac420c9
+15:25:48	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/cart/?remove_item=90610aa0e24f63ec6d2637e06f9b9af2&_wpnonce=a6cac420c9 to http://stylemixthemes.com/masterstudy/white-lms/cart/?removed_item=1
+15:25:48	Warning: 	Found for https://stylemixthemes.com/masterstudy/white-lms/cart/?remove_item=bf764716fe1a58cb07f8a377ec25c16d&_wpnonce=a6cac420c9
+15:25:48	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/cart/?remove_item=bf764716fe1a58cb07f8a377ec25c16d&_wpnonce=a6cac420c9 to http://stylemixthemes.com/masterstudy/white-lms/cart/?removed_item=1
+15:25:48	Warning: 	Found for https://stylemixthemes.com/masterstudy/white-lms/cart/?remove_item=b105e5a192f80ef3ec4ee4756af089a3&_wpnonce=a6cac420c9
+15:25:48	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/cart/?remove_item=b105e5a192f80ef3ec4ee4756af089a3&_wpnonce=a6cac420c9 to http://stylemixthemes.com/masterstudy/white-lms/cart/?removed_item=1
+15:25:48	Warning: 	Found for https://stylemixthemes.com/masterstudy/white-lms/cart/?remove_item=2c79b73d2716e9470ec621310f08e6fe&_wpnonce=a6cac420c9
+15:25:48	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/cart/?remove_item=2c79b73d2716e9470ec621310f08e6fe&_wpnonce=a6cac420c9 to http://stylemixthemes.com/masterstudy/white-lms/cart/?removed_item=1
+15:25:48	Warning: 	Found for https://stylemixthemes.com/masterstudy/white-lms/cart/?remove_item=c1a3d34711ab5d85335331ca0e57f067&_wpnonce=a6cac420c9
+15:25:48	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/cart/?remove_item=c1a3d34711ab5d85335331ca0e57f067&_wpnonce=a6cac420c9 to http://stylemixthemes.com/masterstudy/white-lms/cart/?removed_item=1
+15:25:48	Warning: 	Found for https://stylemixthemes.com/masterstudy/white-lms/cart/?remove_item=04a1bf2d968f1ce381cf1f9184a807a9&_wpnonce=a6cac420c9
+15:25:48	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/cart/?remove_item=04a1bf2d968f1ce381cf1f9184a807a9&_wpnonce=a6cac420c9 to http://stylemixthemes.com/masterstudy/white-lms/cart/?removed_item=1
+15:25:48	Warning: 	Found for https://stylemixthemes.com/masterstudy/white-lms/cart/?remove_item=f461285987ddc0629f8a4ab6477642b5&_wpnonce=a6cac420c9
+15:25:48	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/cart/?remove_item=f461285987ddc0629f8a4ab6477642b5&_wpnonce=a6cac420c9 to http://stylemixthemes.com/masterstudy/white-lms/cart/?removed_item=1
+15:30:41	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=5372
+15:30:41	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=5372 to https://stylemixthemes.com/masterstudy/white-lms/product/the-innovators-dilemma/
+15:33:29	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/course-bundles/?paged=1
+15:33:29	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/course-bundles/?paged=1 to https://stylemixthemes.com/masterstudy/white-lms/course-bundles/
+15:34:55	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=5106
+15:34:55	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=5106 to https://stylemixthemes.com/masterstudy/white-lms/my-account/
+16:35:21	Warning: 	Moved Permanently for stylemixthemes.com/robots.txt
+16:35:21	Warning: 	Redirected link is identical because of 'URL Hack' option: stylemixthemes.com/robots.txt and https://stylemixthemes.com/robots.txt
+16:35:21	Warning: 	Warning moved treated for stylemixthemes.com/robots.txt (real one is https://stylemixthemes.com/robots.txt)
+16:35:21	Warning: 	Moved Permanently for stylemixthemes.com/masterstudy/white-lms/cart/?removed_item=1
+16:35:21	Warning: 	Redirected link is identical because of 'URL Hack' option: stylemixthemes.com/masterstudy/white-lms/cart/?removed_item=1 and https://stylemixthemes.com/masterstudy/white-lms/cart/?removed_item=1
+16:35:21	Warning: 	File has moved from stylemixthemes.com/masterstudy/white-lms/cart/?removed_item=1 to https://stylemixthemes.com/masterstudy/white-lms/cart/?removed_item=1
+16:35:22	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=5105
+16:35:22	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=5105 to https://stylemixthemes.com/masterstudy/white-lms/checkout/
+16:35:23	Warning: 	Found for https://stylemixthemes.com/masterstudy/white-lms/cart/?undo_item=4f3d7d38d24b740c95da2b03dc3a2333&_wpnonce=a6cac420c9
+16:35:23	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/cart/?undo_item=4f3d7d38d24b740c95da2b03dc3a2333&_wpnonce=a6cac420c9 to http://stylemixthemes.com/masterstudy/white-lms/checkout/
+16:35:23	Warning: 	Found for https://stylemixthemes.com/masterstudy/white-lms/cart/?undo_item=78719f11fa2df9917de3110133506521&_wpnonce=a6cac420c9
+16:35:23	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/cart/?undo_item=78719f11fa2df9917de3110133506521&_wpnonce=a6cac420c9 to http://stylemixthemes.com/masterstudy/white-lms/checkout/
+16:35:23	Warning: 	Found for https://stylemixthemes.com/masterstudy/white-lms/cart/?undo_item=d5cec1027063b70c834c16a86baca424&_wpnonce=a6cac420c9
+16:35:23	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/cart/?undo_item=d5cec1027063b70c834c16a86baca424&_wpnonce=a6cac420c9 to http://stylemixthemes.com/masterstudy/white-lms/checkout/
+16:35:23	Warning: 	Found for https://stylemixthemes.com/masterstudy/white-lms/cart/?undo_item=90610aa0e24f63ec6d2637e06f9b9af2&_wpnonce=a6cac420c9
+16:35:23	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/cart/?undo_item=90610aa0e24f63ec6d2637e06f9b9af2&_wpnonce=a6cac420c9 to http://stylemixthemes.com/masterstudy/white-lms/checkout/
+16:35:23	Warning: 	Found for https://stylemixthemes.com/masterstudy/white-lms/cart/?undo_item=bf764716fe1a58cb07f8a377ec25c16d&_wpnonce=a6cac420c9
+16:35:23	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/cart/?undo_item=bf764716fe1a58cb07f8a377ec25c16d&_wpnonce=a6cac420c9 to http://stylemixthemes.com/masterstudy/white-lms/checkout/
+16:35:23	Warning: 	Found for https://stylemixthemes.com/masterstudy/white-lms/cart/?undo_item=b105e5a192f80ef3ec4ee4756af089a3&_wpnonce=a6cac420c9
+16:35:23	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/cart/?undo_item=b105e5a192f80ef3ec4ee4756af089a3&_wpnonce=a6cac420c9 to http://stylemixthemes.com/masterstudy/white-lms/checkout/
+16:35:23	Warning: 	Found for https://stylemixthemes.com/masterstudy/white-lms/cart/?undo_item=2c79b73d2716e9470ec621310f08e6fe&_wpnonce=a6cac420c9
+16:35:23	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/cart/?undo_item=2c79b73d2716e9470ec621310f08e6fe&_wpnonce=a6cac420c9 to http://stylemixthemes.com/masterstudy/white-lms/checkout/
+16:35:23	Warning: 	Found for https://stylemixthemes.com/masterstudy/white-lms/cart/?undo_item=c1a3d34711ab5d85335331ca0e57f067&_wpnonce=a6cac420c9
+16:35:23	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/cart/?undo_item=c1a3d34711ab5d85335331ca0e57f067&_wpnonce=a6cac420c9 to http://stylemixthemes.com/masterstudy/white-lms/checkout/
+16:35:24	Warning: 	Found for https://stylemixthemes.com/masterstudy/white-lms/cart/?undo_item=04a1bf2d968f1ce381cf1f9184a807a9&_wpnonce=a6cac420c9
+16:35:24	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/cart/?undo_item=04a1bf2d968f1ce381cf1f9184a807a9&_wpnonce=a6cac420c9 to http://stylemixthemes.com/masterstudy/white-lms/checkout/
+16:35:24	Warning: 	Found for https://stylemixthemes.com/masterstudy/white-lms/cart/?undo_item=f461285987ddc0629f8a4ab6477642b5&_wpnonce=a6cac420c9
+16:35:24	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/cart/?undo_item=f461285987ddc0629f8a4ab6477642b5&_wpnonce=a6cac420c9 to http://stylemixthemes.com/masterstudy/white-lms/checkout/
+16:36:24	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=2872
+16:36:24	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=2872 to https://stylemixthemes.com/masterstudy/white-lms/stm-course-bundles/fundamentals-of-analyzing-investments/
+16:36:25	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=2865
+16:36:25	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=2865 to https://stylemixthemes.com/masterstudy/white-lms/stm-course-bundles/stock-trading-investing-for-beginners-4-in-1-course-bundle/
+16:36:25	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=2863
+16:36:25	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=2863 to https://stylemixthemes.com/masterstudy/white-lms/stm-course-bundles/trading-basics-3-course-bundle/
+16:36:25	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=2861
+16:36:25	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=2861 to https://stylemixthemes.com/masterstudy/white-lms/stm-course-bundles/complete-web-development-in-1-bundle-2/
+16:36:25	Warning: 	Moved Permanently for https://stylemixthemes.com/masterstudy/white-lms/?p=2858
+16:36:25	Warning: 	File has moved from https://stylemixthemes.com/masterstudy/white-lms/?p=2858 to https://stylemixthemes.com/masterstudy/white-lms/stm-course-bundles/complete-web-development-in-1-bundle/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 44 minutes 53 seconds : 2372 links scanned, 2258 files written (143743821 bytes overall) [48403855 bytes received at 7691 bytes/sec], 121023609 bytes transferred using HTTP compression in 1996 files, ratio 18%, 33.6 requests per connection
+(29 errors, 170 warnings, 0 messages)
