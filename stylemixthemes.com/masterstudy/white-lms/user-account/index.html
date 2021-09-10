@@ -601,23 +601,20 @@ body.skin_custom_color .single_product_after_title .meta-unit.teacher:hover .val
  <div class="sc_login text-center" style="margin-top: 25px;"></div></div><div class="col-md-6"><div id="stm-lms-register"
  class="vue_is_disabled"
  v-init="site_key = ''"
- v-bind:class="{'is_vue_loaded' : vue_loaded}"><h3>Sign Up</h3><form @submit.prevent="register()" class="stm_lms_register_wrapper"><div class="row"><div class="col-md-6"><div class="form-group"> <label class="heading_font">Username</label> <input class="form-control"
+ v-bind:class="{'is_vue_loaded' : vue_loaded}"><h3>Sign Up (Purchase)</h3><form @submit.prevent="register()" class="stm_lms_register_wrapper"><div class="row"><div class="col-md-6"><div class="form-group"> <label class="heading_font">Full Name</label> <input class="form-control"
  type="text"
  name="login"
  v-model="login"
- placeholder="Enter username"/></div></div><div class="col-md-6"><div class="form-group"> <label class="heading_font">E-mail</label> <input class="form-control"
+ placeholder="First Middle Last"/></div></div><br><br>
+ <br><br><br><span>Note: Kindly verify the mail id twice. Once payment is done, activation link is send to the provided mail id.</span>
+ <br><br><br><div class="col-md-6"><div class="form-group"> <label class="heading_font">E-mail Id</label> <input class="form-control"
  type="email"
  name="email"
  v-model="email"
- placeholder="Enter your E-mail"/></div></div></div><div class="row"><div class="col-md-6"><div class="form-group"> <label class="heading_font">Password</label> <input class="form-control"
- type="password"
- name="password"
- v-model="password"
- placeholder="Enter password"/></div></div><div class="col-md-6"><div class="form-group"> <label class="heading_font">Password again</label> <input class="form-control"
- type="password"
- name="password_re"
- v-model="password_re"
- placeholder="Confirm password"/></div></div><div v-for="(profileField, index) in profileDefaultFieldsForRegister" class="col-md-12"><div class="form-group"> <label class="heading_font" v-html="profileField.label"></label> <input class="form-control" v-if="index !== 'description'" type="text" v-model="profileField.value" :placeholder="profileField.placeholder" :required="profileField.required" /><textarea class="form-control" v-if="index === 'description'" v-model="profileField.value" :placeholder="profileField.placeholder" :required="profileField.required"></textarea></div></div></div><div class="row additional-fields" v-if="additionalRegisterFields.length"
+ placeholder="E-mail Address"/></div></div></div><div class="row"><div class="col-md-6"><div class="form-group"> <label class="heading_font">Mobile No.</label> <input class="form-control"
+ type="tel"
+ name="phone"
+ placeholder="Mobile Number"/></div></div><div v-for="(profileField, index) in profileDefaultFieldsForRegister" class="col-md-12"><div class="form-group"> <label class="heading_font" v-html="profileField.label"></label> <input class="form-control" v-if="index !== 'description'" type="text" v-model="profileField.value" :placeholder="profileField.placeholder" :required="profileField.required" /><textarea class="form-control" v-if="index === 'description'" v-model="profileField.value" :placeholder="profileField.placeholder" :required="profileField.required"></textarea></div></div></div><div class="row additional-fields" v-if="additionalRegisterFields.length"
  v-for="(field, index) in additionalRegisterFields"><div class="col-md-12"><div class="form-group"> <label class="heading_font" v-if="typeof field.label !== 'undefined'" v-html="field.label"></label> <input class="form-control"
  v-if="field.type === 'text' || field.type === 'tel' || field.type === 'email'"
  :placeholder="field.placeholder ? field.placeholder : ''"
@@ -685,12 +682,22 @@ body.skin_custom_color .single_product_after_title .meta-unit.teacher:hover .val
  v-html="field.value.split('/').pop()"> </span> <span class="filename"
  v-else-if="!loading"
  v-html="field.placeholder"> </span> <span class="filename"
- v-else> Loading... </span> </label> <i v-if="field.value" class="fas fa-times" @click="field.value = ''"></i> <i v-else class="fas fa-paperclip"></i></div><div class="field-description" v-if="field.description" v-html="field.description"></div></div></div></div><div class="row"><div class="col-md-12"><div class="stm_lms_register_wrapper__actions"><div class="form-group"> <label class="heading_font">User Type</label> <select class="disable-select form-control" v-model="auditory"><option value="">Select User Type</option><option :value="'3247'"> User</option><option :value="'3246'"> Student</option><option :value="'3245'"> Parent</option> </select></div></div><div class="stm_lms_register_wrapper__actions"> <label class="stm_lms_styled_checkbox"> <span class="stm_lms_styled_checkbox__inner"> <input type="checkbox"
- name="become_instructor"
- v-model="become_instructor"/> <span><i class="fa fa-check"></i> </span> </span> <span>Register as Instructor</span> </label> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<button type="submit"
+ v-else> Loading... </span> </label> <i v-if="field.value" class="fas fa-times" @click="field.value = ''"></i> <i v-else class="fas fa-paperclip"></i></div><div class="field-description" v-if="field.description" v-html="field.description"></div></div></div></div><div class="row"><div class="col-md-12"><div class="stm_lms_register_wrapper__actions"><div class="form-group"> <label class="heading_font">Product</label> <select class="disable-select form-control" v-model="auditory"><option value="">Select Product</option><option :value="'3247'"> Premium NEET Package - 1 year</option><option :value="'3246'"> Premium NEET Package - 2 years</option><option :value="'3245'"> Premium JEE Package - 1 year</option><option :value="'3245'"> Premium JEE Package - 2 years</option><option :value="'3245'"> Premium NEET+JEE Package - 1 year</option><option :value="'3245'"> Premium NEET+JEE Package - 2 years</option><option :value="'3245'"> Standard NEET Package - 1 year</option><option :value="'3245'"> Standard NEET Package - 2 years</option><option :value="'3245'"> Standard JEE Package - 1 year</option><option :value="'3245'"> Standard JEE Package - 2 years</option><option :value="'3245'"> Standard NEET+JEE Package - 1 year</option><option :value="'3245'"> Standard NEET+JEE Package - 2 years</option><option :value="'3245'"> Aptitude Pro - 1 year</option><option :value="'3245'"> JobHacker - 1 year</option> </select></div></div>
+<!--<p><a href="#">Product Price  </a> <input name="price" placeholder="0 &#8377;"></p>
+      <p><a href="#">0% GST  </a> <span class="price"> 0 &#8377;</span></p>
+      <p><a href="#">Total Price  </a> <span class="price"> 0 &#8377;</span></label>-->
+<label class="heading_font"> Product Price <input class="price" type="text" placeholder=" 0 &#8377;"/></label><br>
+<label class="heading_font"> 0% GST <input class="price" type="text" placeholder=" 0 &#8377;"/></label><br>
+<label class="heading_font"> Total Price <input class="price" type="text" placeholder=" 0 &#8377;"/></label>
+ <div class="stm_lms_register_wrapper__actions"> <label class="stm_lms_styled_checkbox">  </label> &nbsp&nbsp&nbsp
+    <button type="submit"
  class="btn btn-default"
  :disabled="loading"
- v-bind:class="{'loading': loading}"> <span>Register</span> </button></div></div></div></form> 
+ v-bind:class="{'loading': loading}"> <span>Promo Code</span> </button>&nbsp&nbsp
+ <button type="submit"
+ class="btn btn-default"
+ :disabled="loading"
+ v-bind:class="{'loading': loading}"> <span>SignUp & Proceed to Pay</span> </button></div></div></div></form> 
  
 
 
