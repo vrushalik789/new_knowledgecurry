@@ -897,7 +897,7 @@ Parent's Registration
   margin-left: 50px;
 }
 </style> 
- <div class="sc_login text-center" style="margin-top: 25px;"></div></div><div class="col-md-6"><div id="stm-lms-register"
+ <div class="sc_login text-center" style="margin-top: 25px;"></div></div><div class="col-md-8"><div id="stm-lms-register"
  class="vue_is_disabled"
  v-init="site_key = ''"
  v-bind:class="{'is_vue_loaded' : vue_loaded}"><h3>Sign Up (Purchase)</h3><form @submit.prevent="register()" class="stm_lms_register_wrapper">
@@ -906,16 +906,16 @@ Parent's Registration
         name="login"
         v-model="login"
         placeholder="First Middle Last"/></div></div><br><br>
-        <br><br><br><span>Note: Kindly verify the mail id twice. Once payment is done, activation link is send to the provided mail id.</span>
-        <br><br><br><div class="col-md-6"><div class="form-group"> <label class="heading_font">E-mail Id</label> <input class="form-control"
+        <br><br><br><span><b>Note:</b> Kindly verify the mail id twice. Once payment is done, activation link is send to the provided mail id.</span>
+        <br><br><br><div class="col-md-7"><div class="form-group"> <label class="heading_font">E-mail Id</label> <input class="form-control"
         type="email"
         name="email"
         v-model="email"
-        placeholder="E-mail Address"/></div></div></div><div class="row"><div class="col-md-6"><div class="form-group"> <label class="heading_font">Mobile No.</label> <input class="form-control"
+        placeholder="E-mail Address"/></div></div></div><div class="row"><div class="col-md-7"><div class="form-group"> <label class="heading_font">Mobile No.</label> <input class="form-control"
         type="tel"
         name="phone"
-        placeholder="Mobile Number"/></div></div><div v-for="(profileField, index) in profileDefaultFieldsForRegister" class="col-md-12"><div class="form-group"> <label class="heading_font" v-html="profileField.label"></label> <input class="form-control" v-if="index !== 'description'" type="text" v-model="profileField.value" :placeholder="profileField.placeholder" :required="profileField.required" /><textarea class="form-control" v-if="index === 'description'" v-model="profileField.value" :placeholder="profileField.placeholder" :required="profileField.required"></textarea></div></div></div><div class="row additional-fields" v-if="additionalRegisterFields.length"
-        v-for="(field, index) in additionalRegisterFields"><div class="col-md-12"><div class="form-group"> <label class="heading_font" v-if="typeof field.label !== 'undefined'" v-html="field.label"></label> <input class="form-control"
+        placeholder="Mobile Number"/></div></div><div v-for="(profileField, index) in profileDefaultFieldsForRegister" class="col-md-7"><div class="form-group"> <label class="heading_font" v-html="profileField.label"></label> <input class="form-control" v-if="index !== 'description'" type="text" v-model="profileField.value" :placeholder="profileField.placeholder" :required="profileField.required" /><textarea class="form-control" v-if="index === 'description'" v-model="profileField.value" :placeholder="profileField.placeholder" :required="profileField.required"></textarea></div></div></div><div class="row additional-fields" v-if="additionalRegisterFields.length"
+        v-for="(field, index) in additionalRegisterFields"><div class="col-md-8"><div class="form-group"> <label class="heading_font" v-if="typeof field.label !== 'undefined'" v-html="field.label"></label> <input class="form-control"
         v-if="field.type === 'text' || field.type === 'tel' || field.type === 'email'"
         :placeholder="field.placeholder ? field.placeholder : ''"
         :type="field.type"
@@ -983,7 +983,7 @@ Parent's Registration
         v-else-if="!loading"
         v-html="field.placeholder"> </span> <span class="filename"
         v-else> Loading... </span> </label> <i v-if="field.value" class="fas fa-times" @click="field.value = ''"></i> <i v-else class="fas fa-paperclip"></i></div><div class="field-description" v-if="field.description" v-html="field.description"></div></div></div></div>
-        <div class="row"><div class="col-md-12"><div class="stm_lms_register_wrapper__actions"><div class="form-group">
+        <div class="row"><div class="col-md-7"><div class="stm_lms_register_wrapper__actions"><div class="form-group">
        <label class="heading_font" style="margin-left: 10px;">Product</label> 
         <select style="margin-left: 00px; width: 310px;" class="disable-select form-control" v-model="auditory" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$ContentPlaceHolder1$ProductDropDownList\&#39;,\&#39;\&#39;)&#39;, 0)" id="ContentPlaceHolder1_ProductDropDownList" class="selectpicker">
                 <option selected="selected" value="">Select Product</option>
@@ -1034,16 +1034,16 @@ Parent's Registration
         </div>
         <br />
         <div class="row">
-        <div class="col-md-1 col-md-offset-3">
+        <div class="col-md-1 col-md-offset-1">
         </div>
         <input type="submit" name="ctl00$ContentPlaceHolder1$DiscountCouponButton" value="Promo Code" id="ContentPlaceHolder1_DiscountCouponButton" Class="btn btn-info col-md-4" data-toggle="collapse" data-target="#discountDiv" style="overflow-x: auto; margin-left:15px;font-family: 'Segoe UI', Tahoma, Calibri; font-size: 15px; top: 0px; left: 0px;" />
         <br /><br />
         <div id="discountDiv" class='collapse'>
-        <div class="col-md-1 col-md-offset-3">
+        <div class="col-md-1 col-md-offset-1">
         </div>
-        <div class="col-md-7">
+        <div class="col-md-4">
         <div class="row" style="margin-top:10px">
-        <div class="col-md-6 ">
+        <div class="col-md-4 ">
         <input name="ctl00$ContentPlaceHolder1$CouponTextBox" type="text" id="ContentPlaceHolder1_CouponTextBox" Class="form-control" placeholder="Promo Code" style="font-family: 'Segoe UI', Tahoma, Calibri; font-size: 15px; " />
         </div>
         <div class="col-md-4">
@@ -1056,15 +1056,15 @@ Parent's Registration
         </div>
         </div>
         <div class="row" style="margin-top:5px">
-        <div class="col-sm-4">
-        <span id="ContentPlaceHolder1_DiscountedReceivedLabel" style="font-family: 'Segoe UI', Tahoma, Calibri; font-size: 15px;">Discount Received : </span>
+        <div class="col-sm-8">
+        <span id="ContentPlaceHolder1_DiscountedReceivedLabel" style="font-family: 'Segoe UI', Tahoma, Calibri; font-size: 15px;">Discount Received: </span>
         </div>
         <div class="col-sm-4">
         <span id="ContentPlaceHolder1_DiscountReceivedValueLabel" style="margin-left:1px;font-family: 'Segoe UI', Tahoma, Calibri; font-size: 20px;">0</span>
         <span id="ContentPlaceHolder1_Label5" style="font-family: 'Segoe UI',Tahoma, Calibri;  font-size: 18px;"> ₹</span>
         </div>
-        <br /><br />
-        <div class="col-sm-4">
+        <br /><br /><br /><br />
+        <div class="col-sm-8">
         <span id="ContentPlaceHolder1_Label" style="font-family: 'Segoe UI', Tahoma, Calibri; font-size: 21px;">Amount to Pay: </span>
         </div>
         <div class="col-sm-4">
@@ -1078,7 +1078,7 @@ Parent's Registration
         </div>
         <br />
         <div class="row">
-        <div class="col-md-1 col-md-offset-3">
+        <div class="col-md-1 col-md-offset-1">
         </div>
         <input type="submit" value="Signup & Proceed to Pay" id="ContentPlaceHolder1_SignupButton" Class="btn btn-success col-md-4" style="margin-left:15px;font-family: 'Segoe UI', Tahoma, Calibri; font-size: 15px;" />
         </div>
