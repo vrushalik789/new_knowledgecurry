@@ -535,7 +535,7 @@ body.skin_custom_color .single_product_after_title .meta-unit.teacher:hover .val
     
  <!-- Login page code -->
  <style>
-.col-md-5 {
+.col-md-6 {
   margin: auto;
   width: 80%;
   padding-left: 180px;
@@ -561,9 +561,10 @@ body.skin_custom_color .single_product_after_title .meta-unit.teacher:hover .val
  <div class="stm_lms_login_wrapper__actions">
  <label><i class="fa fa-lock" aria-hidden="true"></i>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <span class="lostpassword"
  @click.prevent="open_lost_password = !open_lost_password"
- title="Lost Password"> Lost Password </span>  </label> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+ title="Lost Password"> Lost Password </span>  </label> 
+ &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
  <a href="#"
- class="btn btn-default pull-right"
+ class="btn btn-default"
  v-bind:class="{'loading': loading}"
  @click.prevent="logIn()"> <span>Login</span> </a></div><div class="stm_lms_lost_password_form" v-if="open_lost_password"><div class="form-group"> <label class="heading_font"> Login/E-mail </label> <input class="form-control"
  type="text"
