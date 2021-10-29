@@ -1078,8 +1078,21 @@ Parent's Registration
         <div class="row">
         <div class="col-md-1 col-md-offset-1">
         </div>
-        <input type="submit" value="Signup & Proceed to Pay" id="ContentPlaceHolder1_SignupButton" Class="btn btn-success col-md-4" style="margin-left:15px;font-family: 'Segoe UI', Tahoma, Calibri; font-size: 15px;" />
-        </div>
+        <button onclick="myFunction()" type="submit" value="Signup & Proceed to Pay" id="ContentPlaceHolder1_SignupButton" Class="btn btn-success col-md-4" style="margin-left:80px;font-family: 'Segoe UI', Tahoma, Calibri; font-size: 15px;" />Signup & proceed to Pay</button>
+        </div> 
+        <p id="demo"></p>
+
+<script>
+function myFunction() {
+  var txt;
+  if (confirm("Thank You!!")) {
+    window.location = '/courses/index.html';
+  } else {
+    window.location = '/courses/index.html';
+  }
+  document.getElementById("demo").innerHTML = window.location;
+}
+</script>
 
 <!--      
     <div class="row"><div class="col-md-6"><div class="form-group"> <label class="heading_font">Full Name</label> <input class="form-control"
